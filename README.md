@@ -21,6 +21,9 @@ If you're having trouble with the installation, please check the [Common Issues]
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+<a href="https://dashboard.scalingo.com/create/app?source=https://github.com/yanjost/snipe-it">
+   <img src="https://cdn.scalingo.com/deploy/button.svg" alt="Deploy on Scalingo" data-canonical-src="https://cdn.scalingo.com/deploy/button.svg" style="max-width:100%;">
+</a>
 -----
 ### User's Manual
 For help using Snipe-IT, check out the [user's manual](https://snipe-it.readme.io/docs/overview).
